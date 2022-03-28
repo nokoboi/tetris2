@@ -8,6 +8,7 @@ public class Tetris2 {
         System.out.println("Hola mundo");
         
         System.out.println("Esto es una modificación desde mi casa. Hola Kevin del mañana");
+        System.out.println("Segundo día de trabajo, ufff");
     }
     
 }
