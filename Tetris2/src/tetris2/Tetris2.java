@@ -12,6 +12,7 @@ public class Tetris2 {
         
         System.out.println("hola, soy paco el jaquer");
         
+        System.out.println("Menuda mierda de día no he hecho na");
     }
     
 }
